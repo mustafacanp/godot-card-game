@@ -1,12 +1,12 @@
 [gd_scene load_steps=15 format=3 uid="uid://bt2x5ecxjo2vu"]
 
-[ext_resource type="Script" path="res://example_2/scripts/main_scene.gd" id="1_xx0ud"]
-[ext_resource type="Script" path="res://example_2/scripts/example__dropzone__enemy.gd" id="3_xajcs"]
-[ext_resource type="Script" path="res://example_2/scripts/example__dropzone__upgrade.gd" id="6_lc55u"]
-[ext_resource type="Script" path="res://example_2/scripts/example__dropzone__non-attack.gd" id="7_tllj1"]
 [ext_resource type="Script" path="res://addons/simple_card_pile_ui/card_pile_ui.gd" id="9_kjsa2"]
+[ext_resource type="Script" path="res://rpg-cards/scripts/main_scene.gd" id="1_xx0ud"]
+[ext_resource type="Script" path="res://rpg-cards/scripts/dropzone__enemy.gd" id="3_xajcs"]
+[ext_resource type="Script" path="res://rpg-cards/scripts/dropzone__upgrade.gd" id="6_lc55u"]
+[ext_resource type="Script" path="res://rpg-cards/scripts/dropzone__non-attack.gd" id="7_tllj1"]
 
-[ext_resource type="PackedScene" uid="uid://dn2ej8wtxey2u" path="res://example_2/scripts/example__card_ui.tscn" id="10_nkrx5"]
+[ext_resource type="PackedScene" uid="uid://dn2ej8wtxey2u" path="res://rpg-cards/scripts/card_ui.tscn" id="10_nkrx5"]
 [ext_resource type="Texture2D" uid="uid://bddymiv4rv8kw" path="res://assets/white-circle.png" id="2_7nbk5"]
 [ext_resource type="Texture2D" uid="uid://b0ymf1fwfgbss" path="res://assets/enemy_crab.png" id="4_61gq4"]
 [ext_resource type="Texture2D" uid="uid://3sjbqh1m34dc" path="res://assets/enemy_bee.png" id="5_hv7g6"]
@@ -175,8 +175,8 @@ texture = ExtResource("8_7o08i")
 layout_mode = 3
 anchors_preset = 0
 script = ExtResource("9_kjsa2")
-json_card_database_path = "res://example_2/data/example__card_database.json"
-json_card_collection_path = "res://example_2/data/example__card_collection.json"
+json_card_database_path = "res://rpg-cards/data/card_database.json"
+json_card_collection_path = "res://rpg-cards/data/card_collection.json"
 extended_card_ui = ExtResource("10_nkrx5")
 click_draw_pile_to_draw = false
 drag_when_clicked = false

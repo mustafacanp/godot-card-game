@@ -3,7 +3,7 @@
 		"nice_name": "Black Joker",
 		"texture_path": "res://assets/card_joker_black.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 0,
 		"suit": ""
 	},
@@ -11,7 +11,7 @@
 		"nice_name": "Red Joker",
 		"texture_path": "res://assets/card_joker_red.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 0,
 		"suit": ""
 	},
@@ -19,7 +19,7 @@
 		"nice_name": "2 of Hearts",
 		"texture_path": "res://assets/card_hearts_02.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 2,
 		"suit": "H"
 	},
@@ -27,7 +27,7 @@
 		"nice_name": "3 of Hearts",
 		"texture_path": "res://assets/card_hearts_03.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 3,
 		"suit": "H"
 	},
@@ -35,7 +35,7 @@
 		"nice_name": "4 of Hearts",
 		"texture_path": "res://assets/card_hearts_04.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 4,
 		"suit": "H"
 	},
@@ -43,7 +43,7 @@
 		"nice_name": "5 of Hearts",
 		"texture_path": "res://assets/card_hearts_05.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 5,
 		"suit": "H"
 	},
@@ -51,7 +51,7 @@
 		"nice_name": "6 of Hearts",
 		"texture_path": "res://assets/card_hearts_06.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 6,
 		"suit": "H"
 	},
@@ -59,7 +59,7 @@
 		"nice_name": "7 of Hearts",
 		"texture_path": "res://assets/card_hearts_07.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 7,
 		"suit": "H"
 	},
@@ -67,7 +67,7 @@
 		"nice_name": "8 of Hearts",
 		"texture_path": "res://assets/card_hearts_08.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 8,
 		"suit": "H"
 	},
@@ -75,7 +75,7 @@
 		"nice_name": "9 of Hearts",
 		"texture_path": "res://assets/card_hearts_09.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 9,
 		"suit": "H"
 	},
@@ -83,7 +83,7 @@
 		"nice_name": "10 of Hearts",
 		"texture_path": "res://assets/card_hearts_10.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 10,
 		"suit": "H"
 	},
@@ -91,7 +91,7 @@
 		"nice_name": "Jack of Hearts",
 		"texture_path": "res://assets/card_hearts_J.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 11,
 		"suit": "H"
 	},
@@ -99,7 +99,7 @@
 		"nice_name": "Queen of Hearts",
 		"texture_path": "res://assets/card_hearts_Q.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 12,
 		"suit": "H"
 	},
@@ -107,7 +107,7 @@
 		"nice_name": "King of Hearts",
 		"texture_path": "res://assets/card_hearts_K.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 13,
 		"suit": "H"
 	},
@@ -115,7 +115,7 @@
 		"nice_name": "Ace of Hearts",
 		"texture_path": "res://assets/card_hearts_A.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 14,
 		"suit": "H"
 	},
@@ -123,7 +123,7 @@
 		"nice_name": "2 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_02.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 2,
 		"suit": "D"
 	},
@@ -131,7 +131,7 @@
 		"nice_name": "3 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_03.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 3,
 		"suit": "D"
 	},
@@ -139,7 +139,7 @@
 		"nice_name": "4 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_04.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 4,
 		"suit": "D"
 	},
@@ -147,7 +147,7 @@
 		"nice_name": "5 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_05.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 5,
 		"suit": "D"
 	},
@@ -155,7 +155,7 @@
 		"nice_name": "6 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_06.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 6,
 		"suit": "D"
 	},
@@ -163,7 +163,7 @@
 		"nice_name": "7 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_07.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 7,
 		"suit": "D"
 	},
@@ -171,7 +171,7 @@
 		"nice_name": "8 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_08.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 8,
 		"suit": "D"
 	},
@@ -179,7 +179,7 @@
 		"nice_name": "9 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_09.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 9,
 		"suit": "D"
 	},
@@ -187,7 +187,7 @@
 		"nice_name": "10 of Diamonds",
 		"texture_path": "res://assets/card_diamonds_10.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 10,
 		"suit": "D"
 	},
@@ -195,7 +195,7 @@
 		"nice_name": "Jack of Diamonds",
 		"texture_path": "res://assets/card_diamonds_J.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 11,
 		"suit": "D"
 	},
@@ -203,7 +203,7 @@
 		"nice_name": "Queen of Diamonds",
 		"texture_path": "res://assets/card_diamonds_Q.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 12,
 		"suit": "D"
 	},
@@ -211,7 +211,7 @@
 		"nice_name": "King of Diamonds",
 		"texture_path": "res://assets/card_diamonds_K.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 13,
 		"suit": "D"
 	},
@@ -219,7 +219,7 @@
 		"nice_name": "Ace of Diamonds",
 		"texture_path": "res://assets/card_diamonds_A.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 14,
 		"suit": "D"
 	},
@@ -227,7 +227,7 @@
 		"nice_name": "2 of Clubs",
 		"texture_path": "res://assets/card_clubs_02.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 2,
 		"suit": "C"
 	},
@@ -235,7 +235,7 @@
 		"nice_name": "3 of Clubs",
 		"texture_path": "res://assets/card_clubs_03.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 3,
 		"suit": "C"
 	},
@@ -243,7 +243,7 @@
 		"nice_name": "4 of Clubs",
 		"texture_path": "res://assets/card_clubs_04.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 4,
 		"suit": "C"
 	},
@@ -251,7 +251,7 @@
 		"nice_name": "5 of Clubs",
 		"texture_path": "res://assets/card_clubs_05.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 5,
 		"suit": "C"
 	},
@@ -259,7 +259,7 @@
 		"nice_name": "6 of Clubs",
 		"texture_path": "res://assets/card_clubs_06.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 6,
 		"suit": "C"
 	},
@@ -267,7 +267,7 @@
 		"nice_name": "7 of Clubs",
 		"texture_path": "res://assets/card_clubs_07.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 7,
 		"suit": "C"
 	},
@@ -275,7 +275,7 @@
 		"nice_name": "8 of Clubs",
 		"texture_path": "res://assets/card_clubs_08.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 8,
 		"suit": "C"
 	},
@@ -283,7 +283,7 @@
 		"nice_name": "9 of Clubs",
 		"texture_path": "res://assets/card_clubs_09.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 9,
 		"suit": "C"
 	},
@@ -291,7 +291,7 @@
 		"nice_name": "10 of Clubs",
 		"texture_path": "res://assets/card_clubs_10.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 10,
 		"suit": "C"
 	},
@@ -299,7 +299,7 @@
 		"nice_name": "Jack of Clubs",
 		"texture_path": "res://assets/card_clubs_J.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 11,
 		"suit": "C"
 	},
@@ -307,7 +307,7 @@
 		"nice_name": "Queen of Clubs",
 		"texture_path": "res://assets/card_clubs_Q.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 12,
 		"suit": "C"
 	},
@@ -315,7 +315,7 @@
 		"nice_name": "King of Clubs",
 		"texture_path": "res://assets/card_clubs_K.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 13,
 		"suit": "C"
 	},
@@ -323,7 +323,7 @@
 		"nice_name": "Ace of Clubs",
 		"texture_path": "res://assets/card_clubs_A.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 14,
 		"suit": "C"
 	},
@@ -331,7 +331,7 @@
 		"nice_name": "2 of Spades",
 		"texture_path": "res://assets/card_spades_02.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 2,
 		"suit": "S"
 	},
@@ -339,7 +339,7 @@
 		"nice_name": "3 of Spades",
 		"texture_path": "res://assets/card_spades_03.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 3,
 		"suit": "S"
 	},
@@ -347,7 +347,7 @@
 		"nice_name": "4 of Spades",
 		"texture_path": "res://assets/card_spades_04.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 4,
 		"suit": "S"
 	},
@@ -355,7 +355,7 @@
 		"nice_name": "5 of Spades",
 		"texture_path": "res://assets/card_spades_05.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 5,
 		"suit": "S"
 	},
@@ -363,7 +363,7 @@
 		"nice_name": "6 of Spades",
 		"texture_path": "res://assets/card_spades_06.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 6,
 		"suit": "S"
 	},
@@ -371,7 +371,7 @@
 		"nice_name": "7 of Spades",
 		"texture_path": "res://assets/card_spades_07.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 7,
 		"suit": "S"
 	},
@@ -379,7 +379,7 @@
 		"nice_name": "8 of Spades",
 		"texture_path": "res://assets/card_spades_08.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 8,
 		"suit": "S"
 	},
@@ -387,7 +387,7 @@
 		"nice_name": "9 of Spades",
 		"texture_path": "res://assets/card_spades_09.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 9,
 		"suit": "S"
 	},
@@ -395,7 +395,7 @@
 		"nice_name": "10 of Spades",
 		"texture_path": "res://assets/card_spades_10.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 10,
 		"suit": "S"
 	},
@@ -403,7 +403,7 @@
 		"nice_name": "Jack of Spades",
 		"texture_path": "res://assets/card_spades_J.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 11,
 		"suit": "S"
 	},
@@ -411,7 +411,7 @@
 		"nice_name": "Queen of Spades",
 		"texture_path": "res://assets/card_spades_Q.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 12,
 		"suit": "S"
 	},
@@ -419,7 +419,7 @@
 		"nice_name": "King of Spades",
 		"texture_path": "res://assets/card_spades_K.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 13,
 		"suit": "S"
 	},
@@ -427,7 +427,7 @@
 		"nice_name": "Ace of Spades",
 		"texture_path": "res://assets/card_spades_A.png",
 		"backface_texture_path": "res://assets/card_back.png",
-		"resource_script_path": "res://example/scripts/example__card_data.gd",
+		"resource_script_path": "res://playing-cards/scripts/example__card_data.gd",
 		"value": 14,
 		"suit": "S"
 	}
